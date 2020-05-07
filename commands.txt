@@ -1,5 +1,8 @@
 1)Commonly used commands in Git:
 
+How do we bring down a repo down to our local machine:
+
+https://github.com/SamuelMwangi-YR/ITC134-Portal
 
 How do we see how things are going in git:
 
@@ -11,4 +14,9 @@ git add .
   
 How do I  bring  all the staged files into the rep:
 
-git commit -m "
+git commit -m "Adds files to this branch of repo"
+
+How do we send our files to the server
+
+git push
+
